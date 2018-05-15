@@ -1,0 +1,6 @@
+sklearn
+sklearn-crfsuite
+tensorflow
+keras
+numpy
+git+https://www.github.com/keras-team/keras-contrib.git
